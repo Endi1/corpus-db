@@ -33,7 +33,6 @@ executable corpus-db
                        persistent-template,
                        regex-pcre-builtin >= 0.94,
                        resourcet,
-                       scotty,
                        text,
                        time,
                        transformers,
